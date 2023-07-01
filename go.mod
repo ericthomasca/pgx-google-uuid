@@ -1,4 +1,4 @@
-module github.com/vgarvardt/pgx-google-uuid/v5
+module github.com/ericthomasca/pgx-google-uuid/v5
 
 go 1.18
 
