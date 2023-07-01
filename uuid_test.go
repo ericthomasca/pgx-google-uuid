@@ -9,7 +9,7 @@ import (
 	"github.com/jackc/pgx/v5/pgxtest"
 	"github.com/stretchr/testify/require"
 
-	pgxuuid "github.com/vgarvardt/pgx-google-uuid/v5"
+	pgxuuid "github.com/ericthomasca/pgx-google-uuid/v5"
 )
 
 var defaultConnTestRunner pgxtest.ConnTestRunner
